@@ -2,11 +2,12 @@
 
 Small Java program that reads and filters data from XML files
 
-### Standard Java libs used:
+Standard Java libs used:
 
 - Parsing: javax.xml.xpath.Xpath
 - Extraction: javax.xml.xpath.Xpath
-- Output: CSV
+
+Output: CSV
 
 
 ## Test & Run
